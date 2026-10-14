@@ -1,6 +1,7 @@
 pkg update -y
 pkg upgrade -y
 pkg install termux-api -y
+pkg install exiftool -y
 
 chmod +x *
 mv kclean "$PREFIX/bin/"
