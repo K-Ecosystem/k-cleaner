@@ -14,7 +14,7 @@ To run K_Cleaner properly, you must install the **Termux:API** add-on applicatio
 
 > ⚠️ **Important:** Ensure you download both the main Termux app and the Termux:API app from the **same platform** (e.g., both from F-Droid or both from GitHub) to prevent signature mismatch issues.
 
-[![F-Droid](https://img.shields.io/badge/F--Droid-Download-35C5CF?style=for-the-badge&logo=f-droid&logoColor=white)](https://f-droid.org/en/packages/com.termux.api/)
+[![F-Droid](https://img.shields.io/badge/F--Droid-Download-181717?style=for-the-badge&logo=f-droid&logoColor=white)](https://f-droid.org/en/packages/com.termux.api/)        
 [![GitHub](https://img.shields.io/badge/GitHub-Download-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/termux/termux-api)
 
 
