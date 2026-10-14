@@ -28,13 +28,14 @@ Open your **Termux** app and execute the following commands step-by-step:
 ```bash
 pkg update && pkg upgrade -y
 pkg install termux-api -y
-pkg install subversion -y
-svn export https://github.com/karim-abdul-rehan/k-cleaner/tree/main/K_cleaner_for_Termux
+pkg install wget -y
+wget https://github.com/karim-abdul-rehan/k-cleaner/releases/download/V_26.10.14/k-cleaner.zip
+unzip k-cleaner.zip
 ```
 
 ### 2. Navigate and Install
 ```bash
-cd K_cleaner_for_Termux
+cd k-cleaner
 chmod +x *
 bash install.sh
 ```
