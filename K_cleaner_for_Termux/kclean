@@ -1,0 +1,2 @@
+exiftool -all= -overwrite_original -r ~/storage/shared/
+termux-media-scan -r ~/storage/shared/
