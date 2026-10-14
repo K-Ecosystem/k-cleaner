@@ -29,7 +29,7 @@ Open your **Termux** app and execute the following commands step-by-step:
 pkg update && pkg upgrade -y
 pkg install termux-api -y
 pkg install wget -y
-wget https://github.com/karim-abdul-rehan/k-cleaner/releases/download/V_26.10.14/k-cleaner.zip
+wget https://github.com/K-Ecosystem/k-cleaner/releases/download/V_26.10.14/k-cleaner.zip
 unzip k-cleaner.zip
 ```
 
